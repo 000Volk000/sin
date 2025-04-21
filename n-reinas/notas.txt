@@ -1,0 +1,2 @@
+Busqueda en anchura: Cola
+Busqueda en profundidad: Pila
